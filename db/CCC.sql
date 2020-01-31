@@ -1,4 +1,4 @@
-DROP TABLE tickets;
+DROP TABLE tickets;p
 DROP TABLE films;
 DROP TABLE customers;
 
